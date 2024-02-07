@@ -5,7 +5,7 @@
 ### Descripción General
 
 Prueba de automatización utilizando Selenium webdriver y TestNG en lenguaje Java. Dicha automatización fue realizada en la página web de la [empresa SAM Sistemas](https://www.samsistemas.com.ar/).
-Puede observar la consigna pedida en el archivo adjunto [SAM Desafío técnico - Test automation-1.pdf]("https://github.com/GaelRoldan/DesafioTecnicoSAM/blob/1c8493625125629eea7f42137fdab8bd9c22b0f7/%5BSAM%5D%20Desaf%C3%ADo%20t%C3%A9cnico%20-%20Test%20automation-1.pdf")
+Puede observar la consigna pedida en el archivo adjunto [SAM Desafío técnico - Test automation-1.pdf](https://github.com/GaelRoldan/DesafioTecnicoSAM/blob/1c8493625125629eea7f42137fdab8bd9c22b0f7/%5BSAM%5D%20Desaf%C3%ADo%20t%C3%A9cnico%20-%20Test%20automation-1.pdf)
 El tipo de pruebas realizadas fueron del tipo funcional, involucrando:
 
 + Botones habilitados correctamente
