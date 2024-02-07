@@ -39,7 +39,7 @@ public class DesafioTecnicoSAM {
 	public void searchToggleTest()
 	{
 		
-		//Asignamos la lupa, su input a variables de tipo WebElement y palabra de búsqueda
+		//Asignamos la lupa y su input a variables de tipo WebElement, también palabra de búsqueda
 		//El driver encuentra los elementos mediante método findElement() y un localizador (tag, class, xpath, id, etc)
 		
 		WebElement lupaDeBusqueda = driver.findElement(By.xpath("/html/body/div[1]/div/div[2]/div/header/div[1]/div[2]/nav/ul/li[6]/a"));
@@ -154,7 +154,7 @@ public class DesafioTecnicoSAM {
 		
 		WebElement footerContacto = driver.findElement(By.xpath("/html/body/div[1]/div/footer/div/div[1]/div/div[1]/div/div/p/span"));
 		
-		// Asignamos el texto que posee el footer, la direccion esperada y el booleano actual dada la condición de que la dirección actual contiene la esperada
+		// Asignamos el texto que posee el footer, la direccion esperada y el booleano actual dada la condición de que la dirección contiene la esperada
 		
 		String footerContactoActual = footerContacto.getText();
 		
