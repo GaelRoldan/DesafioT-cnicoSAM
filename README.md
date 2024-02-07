@@ -32,8 +32,8 @@ En interpretación de la consigna tome una decisión de como abordarla, decidí 
 Cada Test posee descripciónes a lo largo del código para demostrar mi aprendizaje durante la investigación realizada en cumplimiento del desafío.
 
 #### Tecnologías utilizadas
-+java version "17.0.10" 2024-01-16 LTS
-+Apache Maven 3.9.6
-+Selenium webdriver 4.17.0
-+TestNG 7.9.0
+- java version "17.0.10" 2024-01-16 LTS
+- Apache Maven 3.9.6
+- Selenium webdriver 4.17.0
+- TestNG 7.9.0
 
