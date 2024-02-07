@@ -16,7 +16,7 @@ El tipo de pruebas realizadas fueron del tipo funcional, involucrando:
 
 ### Como desplegar
 
-Asegúrese de tener Java 8+ instalado en su sistema, junto con los plugins y dependencias de TestNG y Selenium webdriver en su IDE de preferencia.
+Asegúrese de tener Java 8+ instalado en su sistema (Java 17+ es preferible), junto con los plugins y dependencias de TestNG y Selenium webdriver en su IDE de preferencia.
 
 Para ejecutar el programa clone el repositorio en su dispositivo, mediante agregar carpeta al IDE de su elección o consola de comandos, 
 diríjase a la siguiente dirección y ejecute el programa C:\Users\Gael\Desktop\Proyecto SAM\src\test\java\DesafioTecnicoSAM.java
@@ -30,6 +30,8 @@ En interpretación de la consigna tome una decisión de como abordarla, decidí 
 4. Test footer
 
 Cada Test posee descripciónes a lo largo del código para demostrar mi aprendizaje durante la investigación realizada en cumplimiento del desafío.
+
+El programa compila y pasa correctamente todos los test.
 
 #### Tecnologías utilizadas
 - java version "17.0.10" 2024-01-16 LTS
